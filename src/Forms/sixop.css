@@ -1,0 +1,96 @@
+img
+
+.logo{
+    position: absolute;
+width: 250px;
+height: 200px;
+left: 600px;
+top: 1x;
+}
+.video1 {
+    position: absolute;
+    width: 416px;
+    height: 236px;
+    left: 60px;
+    top: 90px;
+    
+  }
+  .video2
+  {
+    position: absolute;
+    width: 413px;
+    height: 236px;
+    left: 650px;
+    top: 120px;
+    
+  }  
+  .video5
+{
+    position: absolute;
+    shape-image-threshold:unset;
+    width: 461px;
+    height: 150px;
+    left: 1150px;
+    top: 90px;
+  
+}  
+.video6
+{
+    
+    position: absolute;
+width: 409px;
+height: 218px;
+left: 380px;
+top: 470px;
+}
+.video7
+{
+    position: absolute;
+    width: 399px;
+    height: 215px;
+    left: 850px;
+    top: 490px;
+    
+}
+.txt1
+{
+  position: absolute;
+  width: 416px;
+    height: 266px;
+    left: 140px;
+    top: 325px;
+}
+.txt2
+{
+  position: absolute;
+  width: 416px;
+  height: 236px;
+  left: 710px;
+  top: 320px;
+}
+.txt3
+{
+  position: absolute;
+  width: 399px;
+  height: 215px;
+  left: 1250px;
+  top: 320px;
+}
+.txt4
+{
+  position: absolute;
+  width: 399px;
+  height: 215px;
+  left: 500px;
+  top: 650px;
+}
+.txt5
+{
+  position: absolute;
+  width: 399px;
+  height: 215px;
+  left: 910px;
+  top: 650px;
+}
+
+  

@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+h2{
+    padding-left: 12cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: cornsilk;
+    font-size: 44px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 38px;
+}
+.fun{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
